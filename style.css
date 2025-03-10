@@ -231,5 +231,21 @@ font-size: 25px;
 
   
 }
+#temoignages{
+  display: flex;
+  align-items: center;
+  flex-direction: column;  
+}
+#temoignages h3 {
+font-size: 40px;  
+}
+#temoignages blockquote {
+  display: flex; 
+  justify-content: space-between;
+  font-size: 20px;
+  }
 
-
+footer {
+  margin: 30px;
+  margin-left: 750px;
+}
