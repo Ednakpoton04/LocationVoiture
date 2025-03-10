@@ -85,7 +85,7 @@ li a :hover{
 /* <!-- Section d'accueil --> */
 
 section .accueil{
-    background-image: url(../image/IMG5.jpeg) ; 
+    background-image: url(image/IMG5.jpeg) ; 
     opacity: value;
 
     display: flex;
